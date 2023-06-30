@@ -12,15 +12,17 @@
         android:layout_height="wrap_content"
         android:layout_width="match_parent"
         />
+
     <Button
         android:id="@+id/btn_save_transaction"
-        android:layout_margin="20dp"
-        android:textColor="@color/btn_text"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        app:layout_constraintTop_toBottomOf="@+id/input_fields"
-        android:text="@string/btn_add_transaction_text"
+        android:layout_margin="20dp"
+        android:backgroundTint="#6DBB3D"
         android:fontFamily="@font/nunito_semibold"
-        android:backgroundTint="@color/blue_500"/>
+        android:text="@string/btn_add_transaction_text"
+        android:textColor="@color/btn_text"
+        app:layout_constraintTop_toBottomOf="@+id/input_fields"
+        tools:layout_editor_absoluteX="20dp" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

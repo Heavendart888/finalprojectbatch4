@@ -1,12 +1,12 @@
 <resources>
-    <string name="app_name" translatable="false">ExpenseTracker</string>
+    <string name="app_name" translatable="false">Expense Tracker</string>
     <!-- TODO: Remove or change this placeholder text -->
 
     <string name="open">open</string>
     <string name="close">close</string>
     <string name="nav_drawer_header">My Expense Tracker</string>
     <string name="get_started">Get started</string>
-    <string name="empty_transactions_text">enter your first transaction by tapping on the + button</string>
+    <string name="empty_transactions_text">Enter your first transaction by tapping on the + button</string>
     <string name="btn_add_transaction_text">ADD TRANSACTION</string>
     <string name="select_currency">Pick a new currency</string>
     <string name="usd">$ USD</string>
@@ -40,7 +40,7 @@
     <string name="spending_progress">Spending progress</string>
     <string name="limit_not_set">limit not set</string>
     <string name="warning">warning</string>
-    <string name="spending_warning">Attention! You almost reached your spending limit!</string>
+    <string name="spending_warning">Oh No! You almost reached your spending limit!</string>
     <string name="total_balance">BALANCE</string>
     <string name="reports">Reports</string>
     <string name="settings">Settings</string>
